@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata></metadata>
+<defs>
+<font id="mexemlogoregular" horiz-adv-x="999" >
+<font-face units-per-em="2048" ascent="1638" descent="-410" />
+<missing-glyph horiz-adv-x="500" />
+<glyph horiz-adv-x="0" />
+<glyph horiz-adv-x="682" />
+<glyph unicode="&#xd;" />
+<glyph unicode=" " />
+<glyph unicode="m" horiz-adv-x="2000" d="M0 37v1626q0 77 65 110q23 11 45 11q38 0 75 -32l773 -725l755 730q27 27 60 31q6 1 18 1q25 0 44 -10q30 -15 47 -38.5t17 -42.5v-1620q0 -38 -8 -52t-25 -14h-419q-18 0 -26 14t-8 52v714l-358 -375q-38 -38 -92 -38q-56 0 -94 35l-382 360v-737q0 -37 -33 -37h-420 q-34 0 -34 37z" />
+<glyph unicode="w" horiz-adv-x="1492" d="M0 37v356q0 36 37 36h832v281h-705q-36 0 -36 37v318q0 35 36 35h705v240h-832q-37 0 -37 36v357q0 37 37 37h1316q37 0 37 -37v-1696q0 -37 -37 -37h-1316q-37 0 -37 37z" />
+<glyph unicode="x" horiz-adv-x="1939" d="M5 15q-8 15 1 27l625 849l-617 837q-8 15 -1 28q8 14 23 14h519q26 0 42 -20l323 -461l317 461q17 20 45 20h518q14 0 22 -14t-1 -28l-617 -837l627 -849q9 -12 2 -27t-23 -15h-520q-26 0 -42 24l-329 470l-332 -470q-11 -24 -42 -24h-517q-16 0 -23 15z" />
+<glyph unicode="&#xa0;" />
+<glyph unicode="&#x2000;" horiz-adv-x="894" />
+<glyph unicode="&#x2001;" horiz-adv-x="1789" />
+<glyph unicode="&#x2002;" horiz-adv-x="894" />
+<glyph unicode="&#x2003;" horiz-adv-x="1789" />
+<glyph unicode="&#x2004;" horiz-adv-x="596" />
+<glyph unicode="&#x2005;" horiz-adv-x="447" />
+<glyph unicode="&#x2006;" horiz-adv-x="298" />
+<glyph unicode="&#x2007;" horiz-adv-x="298" />
+<glyph unicode="&#x2008;" horiz-adv-x="223" />
+<glyph unicode="&#x2009;" horiz-adv-x="357" />
+<glyph unicode="&#x200a;" horiz-adv-x="99" />
+<glyph unicode="&#x202f;" horiz-adv-x="357" />
+<glyph unicode="&#x205f;" horiz-adv-x="447" />
+<glyph unicode="&#x25fc;" horiz-adv-x="1771" d="M0 0v1772h1772v-1772h-1772z" />
+</font>
+</defs></svg> 
